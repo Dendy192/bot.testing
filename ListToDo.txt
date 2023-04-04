@@ -1,0 +1,9 @@
+1. install library
+    - @adiwajshing/baileys
+    - nodemon
+    - axios
+2. setting node dev
+3. buat fungsi untuk inisialisasi wa (scan or qr code)
+4. buat fingsi menerima chat
+5. connect API
+6. mengirim pesan (data dari API)
